@@ -1,11 +1,5 @@
 # Docker iPython Reveal.js container
 
-## Building Image
-
-```
-docker build -t ipython-revealjs:latest .
-```
-
 ## Running Container
 
 ```
