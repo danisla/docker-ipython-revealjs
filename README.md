@@ -1,5 +1,4 @@
 # Docker iPython Reveal.js container
-=====
 
 ## Building Image
 
