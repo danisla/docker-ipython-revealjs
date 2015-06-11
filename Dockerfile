@@ -13,4 +13,6 @@ ADD requirements.txt /tmp/
 
 RUN pip install -r /tmp/requirements.txt
 
+ADD ipython-revealjs-example.ipynb /notebooks/
+
 CMD ["/notebook.sh"]
